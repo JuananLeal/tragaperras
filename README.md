@@ -1,0 +1,2 @@
+# tragaperras
+ gambling machine
